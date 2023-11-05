@@ -1559,7 +1559,7 @@ sendButMessage(from, `*Si no ves la lista de comandos, o no puedes hacer click e
 
 let newmenu = samu330.prepareMessageFromContent(from, {
 "listMessage":  {
-"title": "*✍🏻MENU | 🌬NyanBot | SAMU330🪀*",
+"title": "*𝓜𝓘𝓚𝓞𝓣𝓞-𝓤𝓡𝓐𝓑𝓔*",
 "description": `\n➫ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙😈.li Oℱịcιɑl.li
 🔐Hola *${pushname}* ${timeFt}
 _Tipo de usuario:_ ${tipoDeUsr}
@@ -1581,7 +1581,7 @@ ${samu}◦ 🪀version de${samu} *WhatsApp* : *${samu330.user.phone.wa_version}*
 ༶•┈┈⛧┈♛ ♛┈⛧┈┈•༶
 
 *🪀Grupo de Soporte y ayuda:*
-https://chat.whatsapp.com/BGTQNDzESmEJr2cCJlccWV
+https://chat.whatsapp.com/IjUHKjUol9lERKkNjSQPKS
 
 En el grupo podras aprender a:
 - Crear Bots.
